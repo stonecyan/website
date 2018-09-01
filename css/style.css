@@ -140,12 +140,20 @@ h5{
 .projectdescription{
 	padding-left:18%;
 	padding-right:18%;
+
 }
 
 .projecttitle{
 	top:10%;
 }
 
+ul{
+	color: #999;
+	display:table;
+	margin-left: 6%;
+	margin-right: 13%;
+	list-style-position: inside;
+}
 
 
 
